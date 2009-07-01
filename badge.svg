@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 525 525" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+
+    <use xlink:href="#star" style="fill:url(#linearGradient);" filter="url(#shadow)" />
+    <use xlink:href="#text" stroke-width="4pt" />
+    <use xlink:href="#text" stroke-width="0pt" />
+
+    <defs>
+        <g id="text"
+            transform="matrix(2.36,-0.86,0.86,2.36,14,173)" 
+            style=" font-family:'PTSans-Bold', 'PT Sans', sans-serif; 
+                    font-weight:700;
+                    font-size:37px;
+                    fill:#fff;
+                    stroke-linejoin:round;"
+            stroke="rgb(6,89,25)" >
+            <text x="54px" y="58px">Eid</text>
+            <text x="12px" y="90px">ablegen!</text>
+        </g>
+
+        <path id="star" 
+            d="M254.249,16.667l20.264,31.836l26.086,-27.271l13.663,35.178l30.906,-21.658l6.538,37.168l34.536,-15.214l-0.838,37.73l36.841,-8.183l-8.183,36.841l37.729,-0.839l-15.213,34.537l37.168,6.538l-21.659,30.905l35.179,13.664l-27.272,26.086l31.837,20.264l-31.837,20.264l27.272,26.086l-35.179,13.663l21.659,30.906l-37.168,6.538l15.213,34.536l-37.729,-0.838l8.183,36.841l-36.841,-8.183l0.838,37.729l-34.536,-15.213l-6.538,37.168l-30.906,-21.659l-13.663,35.179l-26.086,-27.272l-20.264,31.837l-20.264,-31.837l-26.086,27.272l-13.664,-35.179l-30.905,21.659l-6.538,-37.168l-34.537,15.213l0.839,-37.729l-36.841,8.183l8.183,-36.841l-37.73,0.838l15.214,-34.536l-37.168,-6.538l21.658,-30.906l-35.178,-13.663l27.271,-26.086l-31.836,-20.264l31.836,-20.264l-27.271,-26.086l35.178,-13.664l-21.658,-30.905l37.168,-6.538l-15.214,-34.537l37.73,0.839l-8.183,-36.841l36.841,8.183l-0.839,-37.73l34.537,15.214l6.538,-37.168l30.905,21.658l13.664,-35.178l26.086,27.271l20.264,-31.836Z"
+        />
+
+        <linearGradient id="linearGradient"
+            x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" 
+            gradientTransform="matrix(-290,-390,390,-290,390,455)" >
+            <stop offset="0" style="stop-color:#0d6e23;stop-opacity:1" />
+            <stop offset="1" style="stop-color:#129b2e;stop-opacity:1" />
+        </linearGradient>
+
+        <filter id="shadow"
+            x="0" y="0" width="200%" height="200%" >
+            <feOffset result="offOut" in="SourceAlpha" dx="8" dy="8" />
+            <feGaussianBlur result="blurOut" in="offOut" stdDeviation="8" />
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.63 0" />
+            <feMerge>
+                <feMergeNode />
+                <feMergeNode in="SourceGraphic" />
+            </feMerge>
+        </filter>
+    </defs>
+</svg>

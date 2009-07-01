@@ -13,3 +13,6 @@
 - Ich erkenne die Dringlichkeit eines ganzheitlichen Umdenkens und will meinen Einfluss und meine Fähigkeiten als Kreativer und Schaffender nutzen um Vorreiter einer Generation zu sein, die Initiative ergreift.
 - Meine Arbeit soll die Gestaltungsmöglichkeiten für verantwortliches, ökologisches Handeln aufzeigen und die Selbstverantwortung des Einzelnen verbessern.
 - Anspruch und Chance zugleich ist es, nachhaltige Produktionsverfahren und Konsummuster in den Mittelpunkt der öffentlichen Diskussion zu rücken.
+
+<br/>
+<img src="./badge.svg" width="150" height="150">
