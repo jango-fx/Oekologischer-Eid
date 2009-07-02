@@ -1,5 +1,5 @@
 
-# Der Ökologische Eid
+# Ökologischer Eid
 
 - Ich gelobe meine Arbeit in den Dienst guter Gestaltung zu stellen.
 - Ich werde meinen Beruf mit Gewissenhaftigkeit und Verantwortung ausüben und mit allen meinen Kräften das Ansehen und den Wert der Arbeit des Gestalters aufrechterhalten.
