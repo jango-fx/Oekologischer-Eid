@@ -1,4 +1,5 @@
-# Die Idee
+# Der hippokratische Eid für Designer
+## Die freiwillige Selbstverpflichtung für faires und nachhaltiges Design
 
 Der [hippokratische Eid](http://de.wikipedia.org/wiki/Eid_des_Hippokrates), benannt nach dem griechischen Arzt Hippokrates von Kós, war die erste und bis ins 20. Jahrhundert wichtigste Niederschrift ärztlicher Ethik. Er lässt z.B. den verantwortungsbewussten Umgang mit medizinischer Fachkenntnis, das Gebot Kranken nicht zu schaden und die gleichberechtigte Behandlung aller schwören.
 Obwohl Ärzte bei weitem nicht mehr die gesellschaftlich verantwortungsvollsten Berufe ausüben, gibt es kaum einen anderen Beruf, in dem ein so ausgeprägtes ethisches Bewusstsein vorausgesetzt.
