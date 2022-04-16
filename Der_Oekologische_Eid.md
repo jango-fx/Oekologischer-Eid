@@ -16,3 +16,7 @@
 
 <br/>
 <img src="./badge.svg" width="150" height="150">
+
+***
+<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Cc.logo.circle.svg" width=20px><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Cc-by_new.svg" width=20px><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Cc-sa.svg" width=20px>  
+CC BY-SA 4.0</a>

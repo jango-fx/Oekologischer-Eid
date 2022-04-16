@@ -9,10 +9,3 @@ Jeder Mensch sollte, im Beruf oder privat, solch eine Verantwortung übernehmen,
 Darum soll der „[Ökologische Eid](/Der%20Ökologische%20Eid.md)“ das Bewusstsein für verantwortungsvolles Entwerfen stärken.
 
 Als Gestalter und Schöpfer der uns umgebenden Produktwelt sollten wir auch Verantwortung übernehmen, für die Konsequenzen, die unsere Designs für unsere Umwelt bedeuten. Und so gestalten, dass wir unserer Umwelt durch unsere Arbeit so wenig schaden wie möglich.
-
-<br/>
-
-***
-
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/40px-Cc.logo.circle.svg.png)![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cc-by_new.svg/40px-Cc-by_new.svg.png)![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cc-sa.svg/40px-Cc-sa.svg.png)  
-**CC BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/)
