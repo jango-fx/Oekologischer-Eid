@@ -1,0 +1,31 @@
+name: gh-pages-index
+on:
+  push:
+    branches:
+      - main  
+jobs:
+  gh-pages-index:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - run: |
+        # gh-pages-index
+        git config --global user.name 'github-bot'
+        git config --global user.email 'github-bot@users.noreply.github.com'
+        git branch -d gh-pages &> /dev/null || echo gh-pages branch not found. ignored.
+        # git push -f origin -d gh-pages
+        echo create branch
+        git checkout -b gh-pages
+        rm -rf .github/
+        echo create index files
+        touch index.md
+        echo "{% include_relative README.md %}" > index.md
+        echo "{% include_relative Der_Oekologische_Eid.md %}" >> index.md
+        echo "add Jekyll config"
+        touch _config.yml
+        echo push to remote
+        git add .
+        git commit -m "added index"
+        git push -f origin gh-pages
